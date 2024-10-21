@@ -1,5 +1,4 @@
-{
-    "MyData": [
+[
         {
             "Name": "Abdur Rehman",
             "Fname": "Jawad Ahmed",
@@ -125,13 +124,6 @@
             "age": 34,
             "email": "oliver.scott@example.com",
             "location": "Edinburgh, UK"
-        },
-        {
-            "Name": "Charlotte Thompson",
-            "Fname": "David Thompson",
-            "age": 31,
-            "email": "charlotte.thompson@example.com",
-            "location": "Cape Town, South Africa"
         }
     ]
-}
+
